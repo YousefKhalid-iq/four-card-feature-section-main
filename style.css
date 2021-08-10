@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+main {
+  padding: 70px 20px 0 20px;
+}
+
+.header-section {
+  text-align: center;
+  font-size: 13px;
+  font-weight: 200;
+}
+
+.first {
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
+
+.second {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+.sub-paragraph {
+  font-size: 16px;
+  color: hsl(229, 6%, 66%);
+  padding-top: 15px;
+  font-weight: 200;
+}
+
+.content-section {
+  padding: 60px 14px 0px 14px;
+}
+
+.first-card {
+  border-width: 3px;
+  border-style: solid;
+  border-color: hsl(180, 62%, 55%) #f8f8ff #f8f8ff   #f8f8ff;
+  padding: 20px 0 20px 20px;
+  border-radius: 10px;
+  box-shadow: 0 20px 32px rgba(0,0,0,0.11);
+  height: 180px;
+  position: relative;
+}
+
+.first-card h2 {
+  font-size: 20px;
+  color: hsl(234, 12%, 34%);
+ 
+}
+
+.first-card  p {
+  font-size: 13px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%); 
+}
+
+.first-card img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 20px;
+}
+
+.second-card {
+  border-width: 3px;
+  border-style: solid;
+  border-color: hsl(0, 78%, 62%) #f8f8ff #f8f8ff    #f8f8ff;
+  padding: 20px 0 20px 20px;
+  box-shadow: 0 20px 32px rgba(0,0,0,0.11);
+  border-radius: 10px;
+  margin-top: 20px;
+  height: 180px;
+  position: relative;
+}
+
+.second-card p {
+  font-size: 13px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
+
+.second-card h2 {
+  font-size: 20px;
+  color: hsl(234, 12%, 34%);
+}
+
+.second-card img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 20px;
+}
+
+.third-card {
+  border-width: 3px;
+  border-style: solid;
+  border-color: hsl(34, 97%, 64%) #f8f8ff #f8f8ff    #f8f8ff;
+  padding: 20px 0 20px 20px;
+  box-shadow: 0 20px 32px rgba(0,0,0,0.11);
+  border-radius: 10px;
+  margin-top: 20px;
+  height: 180px;
+  position: relative;
+}
+
+.third-card p {
+  font-size: 13px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
+
+.third-card h2 {
+  font-size: 20px;
+  color: hsl(234, 12%, 34%);
+}
+
+.third-card img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 20px;
+}
+
+.fourth-card {
+  border-width: 3px;
+  border-style: solid;
+  border-color: hsl(212, 86%, 64%) #f8f8ff #f8f8ff    #f8f8ff;
+  padding: 20px 0 20px 20px;
+  box-shadow: 0 20px 32px rgba(0,0,0,0.11);
+  border-radius: 10px;
+  margin-top: 20px;
+  height: 180px;
+  position: relative;
+}
+
+.fourth-card p {
+  font-size: 13px;
+  font-weight: 200;
+  color: hsl(229, 6%, 66%);
+}
+
+.fourth-card h2 {
+  font-size: 20px;
+  color: hsl(234, 12%, 34%);
+}
+
+.fourth-card img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 20px 20px;
+}
+
+.attribution { 
+  font-size: 11px; text-align: center; 
+  padding-top: 40px;
+}
+
+.attribution a { 
+  color: hsl(229, 6%, 66%); 
+}
